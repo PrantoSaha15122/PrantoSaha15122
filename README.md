@@ -12,8 +12,8 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/diu.ashiq44/)
 ![](https://komarev.com/ghpvc/?username=mmr-ashiq&color=ff69b4&style=flat)
 
-:wave: Hi, My name is Pranto. I'm 20 years old, Self-taught, Software engineering undergrad currently living in Dhaka, 🇧🇩. I love to do problem solving.
-- 🔭 I’m currently working on JAVA
+:wave: Hi, My name is Pranto. I'm 20 years old, Self-taught, Software engineering undergrad currently living in Dhaka, 🇧🇩. I love to do web site design and graphics design.
+- 🔭 I’m currently working on WEB DEVELOPMENT.
 
 ## {...} My Stack
 
